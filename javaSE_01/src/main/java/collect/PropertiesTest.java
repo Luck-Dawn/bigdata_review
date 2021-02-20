@@ -1,4 +1,4 @@
-package collect01;
+package collect;
 
 import java.io.InputStreamReader;
 import java.util.Properties;
