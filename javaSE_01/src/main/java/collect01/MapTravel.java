@@ -1,4 +1,4 @@
-package collect_01;
+package collect01;
 
 import java.util.*;
 
