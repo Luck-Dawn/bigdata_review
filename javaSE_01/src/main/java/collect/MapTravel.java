@@ -42,5 +42,7 @@ public class MapTravel {
             Integer value = eachEntry.getValue();
             System.out.println("key : " + key + "=> value :" + value);
         }
+
+        System.out.println("测试了！");
     }
 }
